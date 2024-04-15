@@ -1,0 +1,112 @@
+Adicionando usuário 09/04/2024 - 22:39:17
+Adicionando senha 09/04/2024 - 22:39:17
+Acessando 09/04/2024 - 22:39:17
+==============================================================
+ADICIONAR ITENS PELA DESCRIÇÃO 09/04/2024 - 22:39:17
+Adiciona item 09/04/2024 - 22:39:18
+Adiciona item 09/04/2024 - 22:39:19
+Adiciona item 09/04/2024 - 22:39:20
+Adiciona item 09/04/2024 - 22:39:20
+Adiciona item 09/04/2024 - 22:39:21
+Adiciona item 09/04/2024 - 22:39:22
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:39:22
+Adicionando usuário 09/04/2024 - 22:39:28
+Adicionando senha 09/04/2024 - 22:39:28
+Acessando 09/04/2024 - 22:39:29
+==============================================================
+CONTINUAR COMPANDO 09/04/2024 - 22:39:29
+Adiciona item 09/04/2024 - 22:39:29
+Adiciona item 09/04/2024 - 22:39:30
+Adiciona item 09/04/2024 - 22:39:30
+Adiciona item 09/04/2024 - 22:39:31
+Adiciona item 09/04/2024 - 22:39:31
+Adiciona item 09/04/2024 - 22:39:32
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:39:32
+Acessando o carrinho 09/04/2024 - 22:39:33
+Removido item 09/04/2024 - 22:39:34
+Removido item 09/04/2024 - 22:39:34
+Removido item 09/04/2024 - 22:39:35
+Removido item 09/04/2024 - 22:39:35
+Removido item 09/04/2024 - 22:39:36
+Removido item 09/04/2024 - 22:39:36
+O carrinho está vazio. 09/04/2024 - 22:39:42
+Adicionando usuário 09/04/2024 - 22:39:48
+Adicionando senha 09/04/2024 - 22:39:48
+Acessando 09/04/2024 - 22:39:49
+==============================================================
+ADICIONAR ITENS PELA DESCRIÇÃO 09/04/2024 - 22:39:49
+Adiciona item 09/04/2024 - 22:39:50
+Adiciona item 09/04/2024 - 22:39:50
+Adiciona item 09/04/2024 - 22:39:51
+Adiciona item 09/04/2024 - 22:39:52
+Adiciona item 09/04/2024 - 22:39:52
+Adiciona item 09/04/2024 - 22:39:53
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:39:53
+Remove item 09/04/2024 - 22:39:55
+Remove item 09/04/2024 - 22:39:56
+Remove item 09/04/2024 - 22:39:56
+Remove item 09/04/2024 - 22:39:57
+Remove item 09/04/2024 - 22:39:58
+Remove item 09/04/2024 - 22:39:58
+O carrinho está vazio. 09/04/2024 - 22:40:04
+Adicionando usuário 09/04/2024 - 22:40:09
+Adicionando senha 09/04/2024 - 22:40:09
+Acessando 09/04/2024 - 22:40:10
+==============================================================
+ADICIONAR ITENS NO CARRINHO 09/04/2024 - 22:40:10
+Adiciona item 09/04/2024 - 22:40:10
+Adiciona item 09/04/2024 - 22:40:11
+Adiciona item 09/04/2024 - 22:40:11
+Adiciona item 09/04/2024 - 22:40:11
+Adiciona item 09/04/2024 - 22:40:12
+Adiciona item 09/04/2024 - 22:40:12
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:40:12
+Adicionando usuário 09/04/2024 - 22:40:18
+Adicionando senha 09/04/2024 - 22:40:18
+Acessando 09/04/2024 - 22:40:19
+==============================================================
+CONTINUAR COMPANDO DESCRIÇÃO 09/04/2024 - 22:40:19
+Adiciona item 09/04/2024 - 22:40:20
+Adiciona item 09/04/2024 - 22:40:20
+Adiciona item 09/04/2024 - 22:40:21
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:40:21
+Entrar no carrinho 09/04/2024 - 22:40:22
+Clicar em 'continuar comprando' 09/04/2024 - 22:40:22
+Adiciona item 09/04/2024 - 22:40:23
+Adiciona item 09/04/2024 - 22:40:23
+Adiciona item 09/04/2024 - 22:40:24
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:40:24
+Adicionando usuário 09/04/2024 - 22:40:30
+Adicionando senha 09/04/2024 - 22:40:30
+Acessando 09/04/2024 - 22:40:31
+==============================================================
+REMOVENDO ITENS DO CARRINHO 09/04/2024 - 22:40:31
+Adiciona item 09/04/2024 - 22:40:31
+Adiciona item 09/04/2024 - 22:40:32
+Adiciona item 09/04/2024 - 22:40:32
+Adiciona item 09/04/2024 - 22:40:33
+Adiciona item 09/04/2024 - 22:40:33
+Adiciona item 09/04/2024 - 22:40:34
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:40:34
+Removido item 09/04/2024 - 22:40:35
+Removido item 09/04/2024 - 22:40:36
+Removido item 09/04/2024 - 22:40:36
+Removido item 09/04/2024 - 22:40:36
+Removido item 09/04/2024 - 22:40:37
+Removido item 09/04/2024 - 22:40:37
+O carrinho está vazio. 09/04/2024 - 22:40:43
+Adicionando usuário 09/04/2024 - 22:40:48
+Adicionando senha 09/04/2024 - 22:40:48
+Acessando 09/04/2024 - 22:40:49
+==============================================================
+CONTINUAR COMPANDO TELA HOME 09/04/2024 - 22:40:49
+Adiciona item 09/04/2024 - 22:40:49
+Adiciona item 09/04/2024 - 22:40:50
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:40:50
+Entrar no carrinho 09/04/2024 - 22:40:50
+Clicar em 'continuar comprando' 09/04/2024 - 22:40:51
+Adiciona item 09/04/2024 - 22:40:51
+Adiciona item 09/04/2024 - 22:40:52
+Adiciona item 09/04/2024 - 22:40:52
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:40:52
+==============================================================

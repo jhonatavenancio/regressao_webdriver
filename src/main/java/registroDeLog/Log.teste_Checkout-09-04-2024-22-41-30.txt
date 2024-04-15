@@ -1,0 +1,82 @@
+Adicionando usuário 09/04/2024 - 22:41:34
+Adicionando senha 09/04/2024 - 22:41:34
+Acessando 09/04/2024 - 22:41:35
+==============================================================
+PREENCHER APENAS NOME 09/04/2024 - 22:41:35
+Adiciona item 09/04/2024 - 22:41:35
+Adiciona item 09/04/2024 - 22:41:36
+Adiciona item 09/04/2024 - 22:41:36
+Adiciona item 09/04/2024 - 22:41:37
+Adiciona item 09/04/2024 - 22:41:37
+Adiciona item 09/04/2024 - 22:41:37
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:41:37
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:41:37
+Ir para o carrinho 09/04/2024 - 22:41:38
+Acessar CHECK-OUT 09/04/2024 - 22:41:38
+Preencher primeiro nome 09/04/2024 - 22:41:38
+Preencher ultimo nome 09/04/2024 - 22:41:38
+Preencher cartão postal 09/04/2024 - 22:41:38
+Concluir 09/04/2024 - 22:41:38
+Valor do pagamento conforme o esperado: Error: Last Name is required 09/04/2024 - 22:41:39
+Adicionando usuário 09/04/2024 - 22:41:45
+Adicionando senha 09/04/2024 - 22:41:45
+Acessando 09/04/2024 - 22:41:46
+==============================================================
+PREENCHER APENAS ULTIMO NOME 09/04/2024 - 22:41:46
+Adiciona item 09/04/2024 - 22:41:46
+Adiciona item 09/04/2024 - 22:41:47
+Adiciona item 09/04/2024 - 22:41:47
+Adiciona item 09/04/2024 - 22:41:47
+Adiciona item 09/04/2024 - 22:41:48
+Adiciona item 09/04/2024 - 22:41:48
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:41:48
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:41:48
+Ir para o carrinho 09/04/2024 - 22:41:49
+Acessar CHECK-OUT 09/04/2024 - 22:41:49
+Preencher primeiro nome 09/04/2024 - 22:41:49
+Preencher ultimo nome 09/04/2024 - 22:41:49
+Preencher cartão postal 09/04/2024 - 22:41:49
+Concluir 09/04/2024 - 22:41:49
+Valor do pagamento conforme o esperado: Error: First Name is required 09/04/2024 - 22:41:50
+Adicionando usuário 09/04/2024 - 22:41:57
+Adicionando senha 09/04/2024 - 22:41:57
+Acessando 09/04/2024 - 22:41:58
+==============================================================
+Finalizando um pedido 09/04/2024 - 22:41:58
+Adiciona item 09/04/2024 - 22:41:58
+Adiciona item 09/04/2024 - 22:41:59
+Adiciona item 09/04/2024 - 22:41:59
+Adiciona item 09/04/2024 - 22:42:00
+Adiciona item 09/04/2024 - 22:42:00
+Adiciona item 09/04/2024 - 22:42:01
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:42:01
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:42:01
+Ir para o carrinho 09/04/2024 - 22:42:01
+Acessar CHECK-OUT 09/04/2024 - 22:42:01
+Preencher primeiro nome 09/04/2024 - 22:42:01
+Preencher ultimo nome 09/04/2024 - 22:42:01
+Preencher cartão postal 09/04/2024 - 22:42:01
+Concluir 09/04/2024 - 22:42:01
+Valor do pagamento conforme o esperado: SauceCard #31337 09/04/2024 - 22:42:01
+Valor do pagamento conforme o esperado: THANK YOU FOR YOUR ORDER 09/04/2024 - 22:42:03
+Adicionando usuário 09/04/2024 - 22:42:08
+Adicionando senha 09/04/2024 - 22:42:08
+Acessando 09/04/2024 - 22:42:08
+==============================================================
+PREENCHER APENAS ULTIMO NOME 09/04/2024 - 22:42:08
+Adiciona item 09/04/2024 - 22:42:09
+Adiciona item 09/04/2024 - 22:42:09
+Adiciona item 09/04/2024 - 22:42:10
+Adiciona item 09/04/2024 - 22:42:10
+Adiciona item 09/04/2024 - 22:42:11
+Adiciona item 09/04/2024 - 22:42:11
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:42:11
+A quantidade de itens no carrinho está correta. 09/04/2024 - 22:42:11
+Ir para o carrinho 09/04/2024 - 22:42:11
+Acessar CHECK-OUT 09/04/2024 - 22:42:11
+Preencher primeiro nome 09/04/2024 - 22:42:12
+Preencher ultimo nome 09/04/2024 - 22:42:12
+Preencher cartão postal 09/04/2024 - 22:42:12
+Concluir 09/04/2024 - 22:42:12
+Valor do pagamento conforme o esperado: Error: First Name is required 09/04/2024 - 22:42:13
+==============================================================
